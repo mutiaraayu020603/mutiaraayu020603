@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Mutiara Ayu Sekar arum
 - 👀 I’m from Indonesia
-- 🌱 I was born in Malang
+- 🌱 I was born in Malang, Indonesia
 - 💞️ I’m 17 years old
 
 <!---
